@@ -1,5 +1,5 @@
 :root {
-    --header-color: rgb(151, 23, 23);
+    --header-color: #080303;
     --bg-color: #eee;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 header {
-    background-color: rgb(151, 23, 23);
+    background-color: #080303;
     text-align: center;
     height: 30vh;
 }
@@ -49,7 +49,7 @@ header .container {
 }
 
 .profile-link {
-    background-color: rgb(151, 23, 23);
+    background-color: #080303;
     color: var(--bg-color);
     padding: 8px 16px;
     display: inline-block;
